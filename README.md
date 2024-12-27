@@ -1,4 +1,4 @@
-# `sun50i-a64-gapdc-iio`
+# `sun50i-a64-gpadc-iio`
 
 [Vasily Khoruzhick][anarsoul]'s Allwinner A64 thermal sensor driver as
 an out-of-tree Linux kernel module.
